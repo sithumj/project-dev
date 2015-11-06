@@ -13,5 +13,9 @@ public class Main {
         obj.calculate(5,5);
 
         System.out.print("Hello World...!!!");
+
+        System.out.print("Hello World...!!!");
+
+        System.out.print("Hello World...!!!");
     }
 }
