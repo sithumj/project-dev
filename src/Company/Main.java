@@ -9,7 +9,9 @@ public class Main {
 
         System.out.print("Hello World...!!!");
 
-       /* Employee obj = new Employee();
-        obj.calculate(5,5);*/
+       Employee obj = new Employee();
+        obj.calculate(5,5);
+
+        System.out.print("Hello World...!!!");
     }
 }
