@@ -7,7 +7,7 @@ public class Cricket {
 
     public void play(){
 
-        System.out.print("Sri Lanka is a cricket playing nation.");
-        System.out.print("Sri Lanka is the World champions.");
+        int x = 1996;
+        System.out.print("Sri Lanka is the World champions in " + x + ".");
     }
 }
