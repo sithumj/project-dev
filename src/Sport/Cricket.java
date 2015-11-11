@@ -7,6 +7,7 @@ public class Cricket {
 
     public void play(){
 
-        System.out.print("Cricket is a gentlemen's game");
+        System.out.print("Sri Lanka is a cricket playing nation.");
+        System.out.print("Sri Lanka is the World champions.");
     }
 }
