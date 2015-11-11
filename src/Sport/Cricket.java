@@ -7,6 +7,6 @@ public class Cricket {
 
     public void play(){
 
-        System.out.print("Playing cricket is fun.");
+        System.out.print("Cricket is a gentlemen's game");
     }
 }
